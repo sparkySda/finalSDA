@@ -1,0 +1,15 @@
+SMAP
+customer_005fsignup_jsp.java
+JSP
+*S JSP
+*F
++ 0 customer_signup.jsp
+customer_signup.jsp
++ 1 opensource.jsp
+opensource.jsp
+*L
+1,5:49
+1#1,17:53
+5#0,7:70
+11,60:76
+*E
